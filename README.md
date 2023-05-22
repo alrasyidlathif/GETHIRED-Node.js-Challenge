@@ -1,7 +1,7 @@
 #### link challenge
 https://devcode.gethired.id/challenge/nodejs-api-todolist
 
-#### solution
+#### run solution locally
 - install docker and swarm first
 
 - run in terminal:
